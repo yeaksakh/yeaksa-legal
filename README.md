@@ -11,6 +11,7 @@ One folder per app:
 | Yeaksale – staff app for businesses on Yeaksa | `com.yeaksale.yeaksa` | https://yeaksakh.github.io/yeaksa-legal/yeaksale/privacy-policy.html |
 | Yeaksaundry – staff app for laundry shops on Yeaksa | `com.yeaksaundry.yeaksa` | https://yeaksakh.github.io/yeaksa-legal/yeaksaundry/privacy-policy.html |
 | Yeaksarehouse (ឃ្លាំងយក្សា) – warehouse staff app for shops on Yeaksa | `com.yeaksa.warehouse` | https://yeaksakh.github.io/yeaksa-legal/yeaksarehouse/privacy-policy.html |
+| Yeaksacturing (ផលិតកម្មយក្សា) – factory-floor app for businesses on Yeaksa | `com.yeaksa.manufacturing` | https://yeaksakh.github.io/yeaksa-legal/yeaksacturing/privacy-policy.html |
 
 Account-deletion URL (for Play Console → Data safety) is the same page with `#delete-account`, e.g. `https://yeaksakh.github.io/yeaksa-legal/yeaksa-shop/privacy-policy.html#delete-account`.
 
