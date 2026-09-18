@@ -14,7 +14,7 @@ One folder per app:
 | Yeaksacturing (ផលិតកម្មយក្សា) – factory-floor app for businesses on Yeaksa | `com.yeaksa.manufacturing` | https://yeaksakh.github.io/yeaksa-legal/yeaksacturing/privacy-policy.html |
 | Yeaksa Point (ពិន្ទុយក្សា) – Yeaksa loyalty points | `com.yeaksa.yeaksapoint` | https://yeaksakh.github.io/yeaksa-legal/yeaksa-point/privacy-policy.html |
 | YeaksaReport (របាយការណ៍យក្សា) – reports app for businesses on Yeaksa | `com.yeaksa.yeaksareport` | https://yeaksakh.github.io/yeaksa-legal/yeaksa-report/privacy-policy.html |
-| SurMekhea (សួរមេខា) – assistant app for businesses on Yeaksa | `com.yeaksa.surmekhea` | https://yeaksakh.github.io/yeaksa-legal/surmekhea/privacy-policy.html |
+| SurMekhea (សួរមេឃា) – assistant app for businesses on Yeaksa | `com.yeaksa.surmekhea` | https://yeaksakh.github.io/yeaksa-legal/surmekhea/privacy-policy.html |
 
 Account-deletion URL (for Play Console → Data safety) is the same page with `#delete-account`, e.g. `https://yeaksakh.github.io/yeaksa-legal/yeaksa-shop/privacy-policy.html#delete-account`.
 
